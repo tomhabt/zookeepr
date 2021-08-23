@@ -31,7 +31,7 @@ The following special instruction must me followed: Always run node script.js in
 The following technologies being used: JavaScript,ES6,Node JS, Express JS.
 
 # Website
-https://github.com/tomhabt/zookeepr.git
+https://tomhabt.github.io/zookeepr/
 # Contribution
 Made with ❤️ by Thomas Habtemariam.
 
