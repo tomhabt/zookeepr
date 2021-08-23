@@ -1,6 +1,7 @@
 # Zookeepr app
 
-https://github.com/tomhabt/zookeepr
+https://tomhabt.github.io/zookeepr/
+
 
 # Description
 
